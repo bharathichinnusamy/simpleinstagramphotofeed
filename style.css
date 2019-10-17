@@ -1,0 +1,29 @@
+.secondbackground {
+    width: 90%;
+    height: 100%;
+    margin-left: 5%;
+    background-color: lightgray;
+
+}
+
+.header {
+    background-color: white;
+    text-align: center;
+    padding-top: 0.2%;
+    padding-bottom: 0.2%;
+
+}
+
+.photofeedbackground {
+    width: 40%;
+    height: 60%;
+    margin: 70px 70px 70px 400px;
+    background-color: white;
+}
+.phototitile{
+    padding: 3px 3px 3px 15px;
+
+}
+.content{
+    padding-left: 15px;
+}
